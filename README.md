@@ -1,4 +1,4 @@
-# VPKitDemo_Android
+# VPKitDemo (Android)
 
 
 
