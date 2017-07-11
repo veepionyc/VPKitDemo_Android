@@ -26,6 +26,6 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:26.+'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
-    compile 'io.veep.android:test_library:1.0.5JM'
+    compile 'io.veep.android:test_library:1.0.6JM'
     testCompile 'junit:junit:4.12'
 }
