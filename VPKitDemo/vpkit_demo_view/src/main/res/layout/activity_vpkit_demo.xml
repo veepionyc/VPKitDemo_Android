@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="Veepio SDK Demo"
+            android:textSize="18dp"
+
+
+            android:textColor="@color/colorBlack"/>
+
+        <io.veep.android.vpkit_library.CustomViews.VPKPreview
+            android:layout_width="280dp"
+            android:layout_height="230dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:background="@color/colorGrey"
+            android:id="@+id/vpk_preview1"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="Veep with URL"
+            android:textColor="@color/colorBlack"/>
+
+        <io.veep.android.vpkit_library.CustomViews.VPKPreview
+            android:layout_width="280dp"
+            android:layout_height="160dp"
+            android:layout_margin="25dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:background="@color/colorGrey"
+            android:id="@+id/vpk_preview2"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="Veep with Veep ID"
+            android:textColor="@color/colorBlack"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/version"
+            android:layout_margin="5dp"
+            android:textAlignment="center"
+            android:layout_alignParentBottom="true"
+            android:text="1.0.0.0"
+            android:textColor="@color/colorBlack"/>
+    </LinearLayout>
+
+
+
+</RelativeLayout>

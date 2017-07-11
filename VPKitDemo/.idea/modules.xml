@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VPKitDemo.iml" filepath="$PROJECT_DIR$/VPKitDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vpkit_demo_view/vpkit_demo_view.iml" filepath="$PROJECT_DIR$/vpkit_demo_view/vpkit_demo_view.iml" />
+    </modules>
+  </component>
+</project>
