@@ -60,7 +60,7 @@ public class VPKitDemoActivity extends AppCompatActivity {
     private void configurePreview2 () {
         VPKPreview preview = (VPKPreview)findViewById(R.id.vpk_preview2);
 
-        String veepId= "560";  // "560" // check which is correct for sandbox/prod
+        String veepId= "1787";  // "560" // check which is correct for sandbox/prod
         ViewGroup.LayoutParams layoutParams = preview.getLayoutParams();
         preview.setVeepId(veepId);
         preview.mImageView.setImageDrawable(getResources().getDrawable(R.drawable.view));
