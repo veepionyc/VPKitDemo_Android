@@ -1,9 +1,9 @@
 # VPKitDemo (Android)
 
 
+![](https://img.shields.io/badge/uses-badges-green.svg)
 
-![](https://img.shields.io/badge/build-passed-green.svg)
-
+![](https://img.shields.io/badge/build-passing-green.svg)
 ![](https://img.shields.io/cocoapods/l/VPKit.svg)
 ![](https://img.shields.io/cocoapods/v/VPKit.svg)
 ![](https://img.shields.io/cocoapods/at/VPKit.svg)
