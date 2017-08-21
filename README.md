@@ -1,15 +1,8 @@
 # VPKitDemo (Android)
 
 
-![](https://img.shields.io/badge/uses-badges-green.svg)
 
 ![](https://img.shields.io/badge/build-passing-green.svg)
-![](https://img.shields.io/cocoapods/l/VPKit.svg)
-![](https://img.shields.io/cocoapods/v/VPKit.svg)
-![](https://img.shields.io/cocoapods/at/VPKit.svg)
-![](https://img.shields.io/cocoapods/p/VPKit.svg)
-![](https://img.shields.io/cocoapods/at/VPKit.svg)
-![](https://img.shields.io/badge/picklerick-passed-green.svg)
 
 
 Demo host apps showing usage of the VPKit_library SDK. 
